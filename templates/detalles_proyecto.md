@@ -7,6 +7,8 @@ Participantes:
 Jana Noemí Azamar Ramírez 
 email: jazamar@lcg.unam.mx 
 
+
+
 ## Descripción del Problema
 <!-- Puedes empezar con una introducción, luego la justificación y plantear el problema. -->
 
