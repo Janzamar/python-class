@@ -1,4 +1,4 @@
-# [NOMBRE DEL PROYECTO]
+# Detalles proyecto
 
 Fecha: [14/02/2025]
 
