@@ -1,10 +1,11 @@
 # [NOMBRE DEL PROYECTO]
 
-Fecha: [dd/mm/yyyy]
+Fecha: [14/02/2025]
 
 Participantes: 
 
-- [nombre]  <email: > 
+Jana Noemí Azamar Ramírez 
+email: jazamar@lcg.unam.mx 
 
 ## Descripción del Problema
 <!-- Puedes empezar con una introducción, luego la justificación y plantear el problema. -->
