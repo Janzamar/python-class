@@ -10,8 +10,9 @@ email: jazamar@lcg.unam.mx
 
 
 ## Descripción del Problema
-<!-- Puedes empezar con una introducción, luego la justificación y plantear el problema. -->
-
+<!-- Puedes empezar con una introducción, luego la justificación y plantear el problema. --> 
+Holi, soy Mryam xd
+dñakjsdfñjdñfkjsdñf 
 
 
 ## Especificación de Requisitos
